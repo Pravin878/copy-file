@@ -19,8 +19,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ```python
-developde by: jegadeesh s
-registered number: 22004355
+developde by: pravin kumar. G
+registered number: 22002767
 with open("git.txt","r") as f1:
     with open("MyFile.txt","a") as f2:
         for line in f1:
